@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(0, 0, 0, 0.637);
+}
+
+header{
+    width: 100%;
+    align-items: center;
+    height: 100px;
+
+}
+header img{
+    height: 4rem;
+    margin-top: 1rem;
+    margin-right: 1vh; 
+    margin-left: 50vh ;
+    
+}
+
+.container{
+    margin: 2rem;
+    background-color: rgb(0, 0, 0);
+    width: 75rem;
+    height: 3090px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    box-shadow: none;
+}
+
+div{
+    height: 15rem;
+    width: 9rem;
+    background-color: rgb(155, 29, 29);
+    margin: 2rem;
+    border-radius: 20px;
+    box-shadow: 2px 4px rgb(255, 255, 255);
+}
+
+.reto1{
+    height: 13rem;
+    width: 13rem;
+    background-color: rgb(247, 247, 247);
+    margin: 2rem;
+    border-radius: 20px;
+    box-shadow: 2px 4px rgb(255, 255, 255);
+   
+  
+    
+}
+.reto1 img{
+    margin-top:  0.4rem;
+    margin-left: 0.4rem;
+    width: 12rem;
+}
+.button{
+    margin-top: 0.2rem ;
+    background-color: black;
+    color:white;
+    border-radius: 6px;
+    border: transparent;
+    margin-left:2rem ;
+    height: 2rem;
+}
+.button1{
+    margin-top: 0.2rem ;
+    background-color: black;
+    color:white;
+    border-radius: 6px;
+    border: transparent;
+    margin-left:3.2rem ;
+    height: 2rem;
+}
+.info1{
+    
+    height: 5rem;
+    width: 13rem;
+    background-color: rgb(143, 143, 143);
+    margin-top: 0%;
+    margin-left: 0cm;
+    border-radius: 20px;
+    color: white;
+   
+    
+    
+}
+.info1 p{
+    margin: 0;
+    text-align: center;
+}
